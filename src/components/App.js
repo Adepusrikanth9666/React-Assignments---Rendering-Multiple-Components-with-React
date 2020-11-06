@@ -5,7 +5,7 @@ const App = () => {
   return (
     <>
       <p data-ns-test="project-name">Gowing Minds </p>
-      <p data-ns-test="project-decription">
+      <p data-ns-test="project-description">
         It is an Business Application in which the both the clients one who
         hasidea about the start-up Business(with no money) and the other one
         whohas an investment to start a Business but no idea .So by this
