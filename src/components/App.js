@@ -11,7 +11,8 @@ const App = () => {
         has an investment to start a Business but no idea .So by this
         application the idea hamster can Log-In and post there Business ideas
         and in the same the investers can choose the liked ideas and the can
-        connect ech other and start the start-up.
+        connect ech other and start the start-up. They can contact or connect by
+        providing google map OR with the address.
       </p>
     </>
   );
