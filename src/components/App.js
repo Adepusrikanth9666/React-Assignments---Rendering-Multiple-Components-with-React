@@ -4,7 +4,7 @@ import "../styles/App.css";
 const App = () => {
   return (
     <>
-      <h1 data-ns-test="project-name">Gowing Minds </h1>
+      <p data-ns-test="project-name">Gowing Minds </p>
       <p data-ns-test="project-decription">
         It is an Business Application in which the both the clients one who
         hasidea about the start-up Business(with no money) and the other one
